@@ -8,3 +8,4 @@ Classes/Interfaces and Responsibilities:
 4. Subscription: This is an object encapsulating the subscriber and the product information for the Data Access Object to persist.
 5. SubscriptionDAO: This interface is responsible for persisting the subscription information in a flat file.
 
+
